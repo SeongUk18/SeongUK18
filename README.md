@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 소개
-안녕하세요, 저는 한성욱입니다. 소프트웨어공학과에 졸업 며 데이터에 관심이 많습니다. 다양한 프로젝트와 대회 참여를 통해 경험을 쌓고 있으며, 여기에서는 제가 작업한 다양한 프로젝트를 공유하고자 합니다. 저 경험들을 통해 데이터는 단순한 정보의 집합이 아니라, 가치를 창출하고 문제를 해결하는 핵심 자원임을 깨닫게 해주었습니다. 이러한 지식과 경험을 활용한 데이터 분석을 통해 사용자 경험을 혁신하고, 서비스의 가치를 높이는 데 중점을 두고자 합니다!
+안녕하세요, 저는 한성욱입니다. 소프트웨어공학과에 졸업 며 데이터에 관심이 많습니다. 다양한 프로젝트와 대회 참여를 통해 경험을 쌓고 있으며, 여기에서는 제가 공부한 다양한 경험를 공유하고자 합니다. 이런 경험들을 통해 데이터는 단순한 정보의 집합이 아니라, 가치를 창출하고 문제를 해결하는 핵심 자원임을 깨닫게 해주었습니다. 이러한 지식과 경험을 활용한 데이터 분석을 통해 사용자 경험을 혁신하고, 서비스의 가치를 높이는 데 중점을 두고자 합니다!
 
 ## 기술 스택
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python**
@@ -37,17 +37,7 @@
 ## 블로그 및 링크
 - [GitHub](https://github.com/SeongUk18)
 - [개인 블로그](https://dev-studyingblog.tistory.com/)
-<!--
-**SeongUk18/SeongUK18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 교육
+- SKT FLY AI
+2024.06.24 ~ 2024.08.30
