@@ -3,13 +3,13 @@
 안녕하세요, 저는 한성욱입니다. 소프트웨어공학과에 재학 중이며 데이터 분석과 머신러닝에 관심이 많습니다. 다양한 프로젝트와 대회 참여를 통해 경험을 쌓고 있으며, 여기에서는 제가 작업한 다양한 프로젝트를 공유하고자 합니다.
 
 ## 기술 스택
-- ![#3776AB](https://via.placeholder.com/15/3776AB/000000?text=+) **Python**
-- ![#00758F](https://via.placeholder.com/15/00758F/000000?text=+) **MySQL**
-- ![#009688](https://via.placeholder.com/15/009688/000000?text=+) **FastAPI**
-- ![#F05032](https://via.placeholder.com/15/F05032/000000?text=+) **Git & GitHub**
-- ![#F36A21](https://via.placeholder.com/15/F36A21/000000?text=+) **Notion**
-- ![#4CAF50](https://via.placeholder.com/15/4CAF50/000000?text=+) **머신러닝**
-- ![#FFD700](https://via.placeholder.com/15/FFD700/000000?text=+) **데이터 전처리 및 시각화**
+- <img src="https://img.icons8.com/color/48/3776AB/python.png" width="20" height="20"/> **Python**
+- <img src="https://img.icons8.com/color/48/00758F/mysql-logo.png" width="20" height="20"/> **MySQL**
+- <img src="https://img.icons8.com/color/48/009688/fastapi.png" width="20" height="20"/> **FastAPI**
+- <img src="https://img.icons8.com/color/48/000000/git.png" width="20" height="20"/> **Git & GitHub**
+- <img src="https://img.icons8.com/color/48/000000/notion.png" width="20" height="20"/> **Notion**
+- <img src="https://img.icons8.com/color/48/4CAF50/machine-learning.png" width="20" height="20"/> **머신러닝**
+- <img src="https://img.icons8.com/color/48/FFD700/data-visualization.png" width="20" height="20"/> **데이터 전처리 및 시각화**
 
 ## 주요 프로젝트
 ### EMG 데이터를 이용한 손동작 인식 (2022.12 - 2023.06)
