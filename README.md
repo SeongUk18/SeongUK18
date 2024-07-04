@@ -3,13 +3,13 @@
 안녕하세요, 저는 한성욱입니다. 소프트웨어공학과에 재학 중이며 데이터 분석과 머신러닝에 관심이 많습니다. 다양한 프로젝트와 대회 참여를 통해 경험을 쌓고 있으며, 여기에서는 제가 작업한 다양한 프로젝트를 공유하고자 합니다.
 
 ## 기술 스택
-- <img src="https://img.icons8.com/color/48/3776AB/python.png" width="20" height="20"/> **Python**
-- <img src="https://img.icons8.com/color/48/00758F/mysql-logo.png" width="20" height="20"/> **MySQL**
-- <img src="https://img.icons8.com/color/48/009688/fastapi.png" width="20" height="20"/> **FastAPI**
-- <img src="https://img.icons8.com/color/48/000000/git.png" width="20" height="20"/> **Git & GitHub**
-- <img src="https://img.icons8.com/color/48/000000/notion.png" width="20" height="20"/> **Notion**
-- <i class="fas fa-brain" style="color:#4CAF50;"></i> **머신러닝**
-- <i class="fas fa-chart-bar" style="color:#FFD700;"></i> **데이터 전처리 및 시각화**
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python**
+- ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) **MySQL**
+- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) **FastAPI**
+- ![Git & GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) **Git & GitHub**
+- ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) **Notion**
+- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4CAF50?style=for-the-badge&logo=tensorflow&logoColor=white) **머신러닝**
+- ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FFD700?style=for-the-badge&logo=databricks&logoColor=white) **데이터 전처리 및 시각화**
 
 ## 주요 프로젝트
 ### EMG 데이터를 이용한 손동작 인식 (2022.12 - 2023.06)
