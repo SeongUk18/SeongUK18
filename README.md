@@ -34,10 +34,10 @@
 - 2023 Advantech AIoT Innoworks Project (최우수상 수상)
 - 가상환경 기반 자율주행 경진대회 (특별상 수상)
 
-## 블로그 및 링크
-- [GitHub](https://github.com/SeongUk18)
-- [개인 블로그](https://dev-studyingblog.tistory.com/)
-
 ## 교육
 - SKT FLY AI
 2024.06.24 ~ 2024.08.30
+
+## 블로그 및 링크
+- [개인 블로그](https://dev-studyingblog.tistory.com/)
+
