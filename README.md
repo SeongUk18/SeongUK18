@@ -8,8 +8,8 @@
 - <img src="https://img.icons8.com/color/48/009688/fastapi.png" width="20" height="20"/> **FastAPI**
 - <img src="https://img.icons8.com/color/48/000000/git.png" width="20" height="20"/> **Git & GitHub**
 - <img src="https://img.icons8.com/color/48/000000/notion.png" width="20" height="20"/> **Notion**
-- <img src="https://img.icons8.com/color/48/4CAF50/machine-learning.png" width="20" height="20"/> **머신러닝**
-- <img src="https://img.icons8.com/color/48/FFD700/data-visualization.png" width="20" height="20"/> **데이터 전처리 및 시각화**
+- <i class="fas fa-brain" style="color:#4CAF50;"></i> **머신러닝**
+- <i class="fas fa-chart-bar" style="color:#FFD700;"></i> **데이터 전처리 및 시각화**
 
 ## 주요 프로젝트
 ### EMG 데이터를 이용한 손동작 인식 (2022.12 - 2023.06)
