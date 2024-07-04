@@ -8,7 +8,7 @@
 - ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) **FastAPI**
 - ![Git & GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) **Git & GitHub**
 - ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) **Notion**
-- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4CAF50?style=for-the-badge&logo=tensorflow&logoColor=white) **머신러닝**
+- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4CAF50?style=for-the-badge&logo=tensorflow&logoColor=white) **ML/DL**
 - ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FFD700?style=for-the-badge&logo=databricks&logoColor=white) **데이터 전처리 및 시각화**
 
 ## 주요 프로젝트
@@ -27,16 +27,29 @@
 
 ### 가상환경 기반 자율주행 경진대회
 - **설명**: 3차원 가상환경에서 자율주행 미션을 수행하는 프로젝트입니다.
-- **성과**: 특별상 수상, 자율주행 시스템 개발 및 구현
+- **성과**: 센서 데이터를 룰 베이스 기반 자율주행 시스템 개발 및 구현
 
 ## 수상 이력
 - 교내 인공지능 챌린지: 멀티 모델을 활용한 추천 시스템 개발 (최우수상 수상)
 - 2023 Advantech AIoT Innoworks Project (최우수상 수상)
 - 가상환경 기반 자율주행 경진대회 (특별상 수상)
 
+## 경력 사항
+- 한솔피엔에스
+  2023.10 - 2023.12
+  하드 코딩된 순서도 개선
+  - Flowchart 작성을 통한 코드 분석
+  - ERD 및 마스터 테이블 작성
+ 
+- (주)제넥신
+  2016.10 - 2021.06
+  기기 분석 분석법 개발
+  - 논문을 통한 새로운 분석법 도출
+  - 분석 결과를 통한 안정성 시험 결과 예측 및 실험 디자인
+ 
 ## 교육
 - SKT FLY AI
-2024.06.24 ~ 2024.08.30
+  2024.06.24 ~ 2024.08.30
 
 ## 블로그 및 링크
 - [개인 블로그](https://dev-studyingblog.tistory.com/)
