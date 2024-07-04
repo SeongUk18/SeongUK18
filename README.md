@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adulty22@gmail.com)
 [![Tistory's Badge](https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white)](https://dev-studyingblog.tistory.com/)
 ## 소개
-안녕하세요, 저는 한성욱입니다. 소프트웨어공학과에 졸업 며 데이터에 관심이 많습니다. 다양한 프로젝트와 대회 참여를 통해 경험을 쌓고 있으며, 여기에서는 제가 공부한 다양한 경험를 공유하고자 합니다. 이런 경험들을 통해 데이터는 단순한 정보의 집합이 아니라, 가치를 창출하고 문제를 해결하는 핵심 자원임을 깨닫게 해주었습니다. 이러한 지식과 경험을 활용한 데이터 분석을 통해 사용자 경험을 혁신하고, 서비스의 가치를 높이는 데 중점을 두고자 합니다!
+안녕하세요, 저는 한성욱입니다. 소프트웨어공학과에 졸업하였으며 데이터에 관심이 많습니다. 다양한 프로젝트와 대회 참여를 통해 경험을 쌓고 있으며, 여기에서는 제가 공부한 다양한 경험를 공유하고자 합니다. 이런 경험들을 통해 데이터는 단순한 정보의 집합이 아니라, 가치를 창출하고 문제를 해결하는 핵심 자원임을 깨닫게 해주었습니다. 이러한 지식과 경험을 활용한 데이터 분석을 통해 사용자 경험을 혁신하고, 서비스의 가치를 높이는 데 중점을 두고자 합니다!
 
 ## 기술 스택
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python**
