@@ -9,7 +9,6 @@
 - ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) **MySQL**
 - ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) **FastAPI**
 - ![Git & GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) **Git & GitHub**
-- ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) **Notion**
 - ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4CAF50?style=for-the-badge&logo=tensorflow&logoColor=white) **ML/DL**
 - ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FFD700?style=for-the-badge&logo=databricks&logoColor=white) **데이터 전처리 및 시각화**
 
