@@ -13,7 +13,7 @@
 - ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FFD700?style=for-the-badge&logo=databricks&logoColor=white) **데이터 전처리 및 시각화**
 
 ## 주요 프로젝트
-### EMG 데이터를 이용한 손동작 인식 (2022.12 - 2023.06)
+### EMG 데이터를 이용한 손동작 인식
 - **설명**: EMG 데이터를 이용해 손동작을 인식하는 프로젝트입니다. 다양한 머신러닝 모델을 적용하여 98%의 높은 정확도로 분류했습니다.
 - **기술**: Python, Machine learning, C++, Arduino, Google drive
 - **성과**: EMG 데이터 수집 및 분석, 실험 설계 및 데이터 수집 방법론 개발, 논문을 통 머신 러닝 분류 모델 개발
