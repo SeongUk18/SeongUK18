@@ -14,10 +14,10 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white), ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=MySQL&logoColor=white)
-- **Frameworks**: ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-- **Database**: ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-- **Tools**: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white), ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- **Languages**: <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=MySQL&logoColor=white" height="25"/>
+- **Frameworks**: <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="25"/>
+- **Database**: <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" height="25"/>
+- **Tools**: <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="25"/>
 - **Other**: Data Visualization (Pandas, Matplotlib), Machine Learning (scikit-learn, TensorFlow)
 
 ---
@@ -32,28 +32,27 @@
   - FastAPI 기반 비동기 처리 API 구현.
   - MySQL 데이터베이스 설계 및 병원 추천 시스템 구현.
   - Docker를 통한 서버 배포 자동화.
-- **성과**: 비동기 처리로 API 응답 속도 최적화, 개인화된 병원 추천 시스템 성공적 구현.
+- **성과**: 비동기 처리로 API 응답 속도 최적화, 맞춤형 서비스 제공 시스템 성공적으로 구현.
 
----
 
 ### 2. [AIoT 기반 펌프 모터 설비 운영 최적화](https://github.com/AIOT-25)
-- **기간**: 2023.09 - 2023.11  
-- **기술 스택**: Python, Deep Learning, Git  
-- **설명**: AIoT를 활용한 펌프 모터 설비의 에너지 효율 최적화 프로젝트.
+- **기간**: 2023.09 - 2023.11
+- **기술 스택**: Python, Deep Learning, Git, Notion
+- **설명**: AIoT를 활용하여 펌프 모터 설비의 에너지 효율을 최적화.
 - **주요 역할**:
-  - 센서 데이터 전처리 및 대시보드 시각화.
-  - LSTM 딥러닝 모델을 통한 실시간 데이터 최적화.
-- **성과**: LSTM 모델을 통해 에너지 비용 약 70% 절감.
+  - 센서 데이터 전처리 및 분석, LSTM 모델 개발.
+  - 오폐수 처리 설비 프로토타입 구축 및 대시보드 시각화.
+- **성과**: LSTM 알고리즘을 통해 에너지 비용 약 70% 절감.
 
----
 
 ### 3. EMG 데이터를 이용한 손동작 인식
-- **기간**: 2022.12 - 2023.06  
-- **기술 스택**: Python, Machine Learning, C++, Arduino  
-- **설명**: EMG 데이터를 이용한 손동작 분류 머신러닝 프로젝트.
+- **기간**: 2022.12 - 2023.06
+- **기술 스택**: Python, Machine Learning, C++, Arduino
+- **설명**: EMG 데이터를 활용한 손동작 분류 시스템 개발.
 - **주요 역할**:
-  - EMG 데이터 수집 및 전처리.
-  - K-NN, SVC, RandomForest 알고리즘을 활용해 분류 정확도 98% 달성.
+  - EMG 데이터 수집 및 전처리, 머신러닝 모델 적용.
+  - K-NN, SVC, RandomForest 등을 사용해 98% 정확도 달성.
+- **성과**: 데이터 전처리 능력 강화 및 머신러닝 모델의 성능 개선.
 
 ---
 
