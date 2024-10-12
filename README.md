@@ -3,6 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adulty22@gmail.com)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white)](https://dev-studyingblog.tistory.com/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/SeongUk18)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seonguk-han-6b2307314/)
 
 ---
 
@@ -104,3 +105,4 @@
 - **Email**: [adulty22@gmail.com](mailto:adulty22@gmail.com)
 - **GitHub**: [SeongUk18](https://github.com/SeongUk18)
 - **Tistory Blog**: [dev-studyingblog](https://dev-studyingblog.tistory.com/)
+- **LinkedIn**: [https://www.linkedin.com/in/seonguk-han](https://www.linkedin.com/in/seonguk-han-6b2307314/)
