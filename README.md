@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm SeongUk Han
+![image](https://github.com/user-attachments/assets/ee0c99aa-49e8-4734-a523-b85d1b60ffc0)# Hi there! 👋 I'm SeongUk Han
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adulty22@gmail.com)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white)](https://dev-studyingblog.tistory.com/)
@@ -40,10 +40,10 @@ API 서버 개발과 데이터 처리 역량을 보유하고 있는 Backend Engi
 - **기술 스택**: Python, FastAPI, MySQL, Docker  
 - **설명**: 고령층 사용자 맞춤형 음성 인식 기반 스마트폰 애플리케이션 백엔드 개발.
 - **주요 역할**:
-  - FastAPI 기반 비동기 처리 API 구현.
-  - MySQL을 이용한 사용자 병원 방문 기록 저장 및 방문 빈도 추적 시스템 구축.
-  - 사용자 위치 정보를 바탕으로 맞춤형 병원 및 택시 정보를 제공하는 시스템 구현
-  - Docker를 통한 서버 배포 자동화.
+  - 발화 텍스트를 통한 서비스 연결 API 구현
+  - 사용자 위치 기반 정보 추천 API 구현
+  - Database 설계 및 구축
+  - Backend 서버 배포
 - **성과**: 비동기 처리로 API 응답 속도 3초에서 1초 미만으로 단축.
 <br>
 
@@ -53,20 +53,10 @@ API 서버 개발과 데이터 처리 역량을 보유하고 있는 Backend Engi
 - **기술 스택**: Python, Deep Learning, Git, Notion
 - **설명**: AIoT를 활용하여 펌프 모터 설비의 에너지 효율을 최적화.
 - **주요 역할**:
-  - 센서 데이터 전처리 및 분석, LSTM 모델 개발.
-  - 오폐수 처리 설비 프로토타입 구축 및 대시보드 시각화.
+  - DataHub를 활용한 센서 데이터 수집
+  - Dashboard 개발
+  - LSTM 딥러닝 알고리즘을 통한 입력 유량값 기반 출력값 조절
 - **성과**: LSTM 알고리즘을 통해 에너지 비용 약 20% 절감.
-
-<br>
-
-### 3. EMG 데이터를 이용한 손동작 인식
-- **기간**: 2022.12 - 2023.06 (7개월)
-- **기술 스택**: Python, Machine Learning, C++, Arduino
-- **설명**: EMG 데이터를 활용한 손동작 분류 시스템 개발.
-- **주요 역할**:
-  - EMG 데이터 수집 및 전처리, 머신러닝 모델 적용.
-  - K-NN, SVC, RandomForest 등을 사용해 98% 정확도 달성.
-- **성과**: 데이터 전처리 능력 강화 및 머신러닝 모델의 성능 개선.
 
 ---
 
