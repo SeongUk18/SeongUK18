@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ee0c99aa-49e8-4734-a523-b85d1b60ffc0)# Hi there! 👋 I'm SeongUk Han
+# Hi there! 👋 I'm SeongUk Han
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adulty22@gmail.com)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white)](https://dev-studyingblog.tistory.com/)
