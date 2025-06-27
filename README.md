@@ -97,10 +97,10 @@ API 서버 개발과 데이터 처리 역량을 보유하고 있는 Backend Engi
 - **주요 업무**:
   - HR Tech 분야에서의 업무신규기능 개발을 위한 아이데이션 및 기술 논의
   - 웹 개발과정에서의 기반 웹 개발과정의 HR Tech 분야 연구 개발 프로젝트의 프로그래밍 지원
-    1)오픈 웹 및 공공데이터 기반 Source Data 추출 및 로컬 저장 기능 구현
-    2) Source Data 가공 및 적재를 통한 기초 RDB(Relational Database) 설계/구축/운영
-    3) Python 웹프레임워크 기반 인트라 웹앱 개발
-    4) LLM, AI를 활용한 기능 개발
+      1)오픈 웹 및 공공데이터 기반 Source Data 추출 및 로컬 저장 기능 구현
+      2) Source Data 가공 및 적재를 통한 기초 RDB(Relational Database) 설계/구축/운영
+      3) Python 웹프레임워크 기반 인트라 웹앱 개발
+      4) LLM, AI를 활용한 기능 개발
 
 ### Genexine
 **의약품 분석팀 / 연구원**
