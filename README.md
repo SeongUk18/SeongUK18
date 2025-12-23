@@ -91,20 +91,25 @@ API 서버 개발과 데이터 처리 역량을 보유하고 있는 Backend Engi
 
 ## 💼 Work Experience
 
-### Smilegate Holdings
-**Talent Relations 팀 / 인턴**
-- **기간**: 2025.04 ~
--  AI 기반 인재관리 플랫폼(External Talent Marketplace) 개발
--   **프로젝트 개요:**
- 게임 업계에 분산된 인재 데이터를 통합 관리하고, AI 모델을 활용하여 검색·평가·매칭을 자동화한 HR 플랫폼 구축
-- **주요 업무**:
-  - 백엔드 개발: Django Framework 기반 서버 구축 및 PostgreSQL 데이터베이스 설계
-  - 웹 개발: 반응형 사용자 인터페이스 및 게임 업계 인재 데이터 통합 대시보드 개발
-  - AI 기능 구현:
-    1. LLM API 연동을 통한 자동화된 평가 및 코멘트 생성 기능
-    2. 다단계 필터링 및 Transformer 모델을 활용한 인재 매칭 시스템
-    3. 게임 프로젝트 증강을 위한 LangGraph 시스템
-    4. 데이터 처리: 인재 데이터 ETL 파이프라인 구축 및 Search Vector를 이용한 실시간 검색 시스템 개발
+### **Smilegate Holdings**
+**Talent Relations 팀 / 인턴** | *2025.04 — *
+
+> **AI 기반 인재관리 플랫폼 (External Talent Marketplace) 개발**
+> 게임 업계의 분산된 인재 데이터를 통합하고, AI를 통해 검색·평가·매칭을 자동화하는 HR 플랫폼 구축 프로젝트
+
+#### 🛠 주요 업무 및 성과
+- **Backend & Database**
+  - **Django Framework** 기반의 견고한 서버 아키텍처 구축
+  - **PostgreSQL**을 이용한 인재 데이터 모델링 및 데이터베이스 설계
+- **AI & Data Engineering**
+  - **LLM API 연동**: 인재에 대한 자동 평가 스코어링 및 인사이트 코멘트 생성 기능 구현
+  - **인재 매칭 시스템**: 다단계 필터링 및 **Transformer 모델** 기반의 고도화된 매칭 엔진 개발
+  - **LangGraph 시스템**: 게임 프로젝트 증강(Augmentation)을 위한 멀티 에이전트 워크플로우 설계
+  - **Search Vector**: 벡터 검색 엔진을 도입하여 실시간 인재 검색 시스템 성능 최적화
+  - **ETL 파이프라인**: 대규모 인재 데이터 수집 및 정제 자동화 파이프라인 구축
+- **Web Development**
+  - 사용자 중심의 반응형 UI 및 인재 데이터 시각화 대시보드 개발
+
 
 ### Genexine
 **의약품 분석팀 / 연구원**
