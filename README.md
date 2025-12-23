@@ -93,14 +93,15 @@ API 서버 개발과 데이터 처리 역량을 보유하고 있는 Backend Engi
 
 ### Smilegate Holdings
 **Talent Relations 팀 / 인턴**
-- **기간**: 2025.05 ~
+- **기간**: 2025.04 ~
 - **주요 업무**:
-  - HR Tech 분야에서의 업무 신규 기능 개발을 위한 아이데이션 및 기술 논의
-  - 웹 개발 과정에서의 HR Tech 분야 연구 개발 프로젝트 프로그래밍 지원
-    1. 오픈 웹 및 공공데이터 기반 Source Data 추출 및 로컬 저장 기능 구현
-    2. Source Data 가공 및 적재를 통한 RDB(PostgreSQL) 설계/구축/운영
-    3. Python 웹프레임워크(Django, FastAPI) 기반 인트라 웹앱 개발
-    4. LLM, AI를 활용한 추천 시스템, 업무 효율화 기능 개발
+  - 백엔드 개발: Django Framework 기반 서버 구축 및 PostgreSQL 데이터베이스 설계
+  - 웹 개발: 반응형 사용자 인터페이스 및 게임 업계 인재 데이터 통합 대시보드 개발
+  - AI 기능 구현:
+    1. LLM API 연동을 통한 자동화된 평가 및 코멘트 생성 기능
+    2. 다단계 필터링 및 Transformer 모델을 활용한 인재 매칭 시스템
+    3. 게임 프로젝트 증강을 위한 LangGraph 시스템
+    4. 데이터 처리: 인재 데이터 ETL 파이프라인 구축 및 Search Vector를 이용한 실시간 검색 시스템 개발
 
 ### Genexine
 **의약품 분석팀 / 연구원**
