@@ -92,10 +92,10 @@ API 서버 개발과 데이터 처리 역량을 보유하고 있는 Backend Engi
 ## 💼 Work Experience
 
 ### **Smilegate Holdings**
-**Talent Relations 팀 / 인턴** | **2025.04 — **
+**Talent Relations 팀 / 인턴** | 2025.04 — 
 
 > **AI 기반 인재관리 플랫폼 (External Talent Marketplace) 개발**
-> 게임 업계의 분산된 인재 데이터를 통합하고, AI를 통해 검색·평가·매칭을 자동화하는 HR 플랫폼 구축 프로젝트
+> - 게임 업계의 분산된 인재 데이터를 통합하고, AI를 통해 검색·평가·매칭을 자동화하는 HR 플랫폼 구축 프로젝트
 
 #### 🛠 주요 업무 및 성과
 - **Backend & Database**
