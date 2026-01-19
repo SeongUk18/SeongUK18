@@ -21,17 +21,6 @@
 - LSTM 딥러닝 모델을 활용한 에너지 사용량 최적화(약 20% 비용 절감 달성)
 - vector embedding, cosine similarity를 이용한 추천 시스템 개발
 
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages**: <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=MySQL&logoColor=white" height="25"/>
-- **Frameworks**: <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="25"/>
-- **Database**: <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" height="25"/>
-- **Tools**: <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="25"/>
-- **Other**: Data Visualization (Pandas, Matplotlib), Machine Learning (scikit-learn, TensorFlow)
-
 ---
 
 ## 💼 Work Experience
