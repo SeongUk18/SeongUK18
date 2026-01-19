@@ -19,7 +19,6 @@
 - python selenium, chrome extention을 이용한 데이터 crawling 및 DB 적재
 - OpenCV 기반 자율주행 시물레이터의 카메라 데이터 실시간 처리
 - LSTM 딥러닝 모델을 활용한 에너지 사용량 최적화(약 20% 비용 절감 달성)
-- Mutimodal 데이터 기반 추천 시스템 개발
 - vector embedding, cosine similarity를 이용한 추천 시스템 개발
 
 
@@ -93,18 +92,21 @@
 ### **Smilegate Holdings**
 **Talent Relations 팀 / 인턴** | 2025.04 — 
 
-> **AI 기반 인재관리 플랫폼 (External Talent Marketplace) 개발**
-> - 게임 업계의 분산된 인재 데이터를 통합하고, AI를 통해 검색·평가·매칭을 자동화하는 HR 플랫폼 구축 프로젝트
+> **DX/AX 기반 토탈 인텔리전스 플랫폼 (Project TIPS) 개발**
+> - TA(Talent Acquisition) 작업시, 발생하는 데이터 관리 및 히스토리 관리등 비효율적 작업들을 해결하기 위한 게임 업계에 분산된 인재 데이터를 통합 관리하고, AI 임베딩/리랭킹, LLM 모델을 활용하여 검색·평가·매칭을 자동화한 TA 자체 HR 플랫폼 구축
+
+데이터 자동 적재 및 히스토리 관리, 데이터 증강을 통한 자체 데이터 자산화
+후보자 관련 서치 및 코멘트 작성등 비효율적 업무 AI 기반 업무 효율 극대화
+인재/게임/조직 데이터 연계 및 다차원 서비스 연동을 통한 통합적인 마켓 인사이트 제공 토대 구축
 
 #### 🛠 주요 업무 및 성과
 - **Backend & Database**
-  - **Django Framework** 기반의 견고한 서버 아키텍처 구축
+  - **Django Framework** 기반의 서버 아키텍처 구축
   - **PostgreSQL**을 이용한 인재 데이터 모델링 및 데이터베이스 설계
 - **AI & Data Engineering**
   - **LLM API 연동**: 인재에 대한 자동 평가 스코어링 및 인사이트 코멘트 생성 기능 구현
-  - **인재 매칭 시스템**: 다단계 필터링 및 **Transformer 모델** 기반의 고도화된 매칭 엔진 개발
-  - **LangGraph 시스템**: 게임 프로젝트 증강(Augmentation)을 위한 멀티 에이전트 워크플로우 설계
-  - **Search Vector**: 벡터 검색 엔진을 도입하여 실시간 인재 검색 시스템 성능 최적화
+  - **인재 매칭 시스템**: 다단계 필터링 및 Bi-Encoder와 Cross-Encoder를 결합한 다단계 인재 추천 파이프라인 구축
+  - **LangGraph 시스템**: 게임 프로젝트 데이터의 맥락 정보 확장 및 30개 이상의 컬럼 자동 증강 기능 구현
   - **ETL 파이프라인**: 대규모 인재 데이터 수집 및 정제 자동화 파이프라인 구축
 - **Web Development**
   - 사용자 중심의 반응형 UI 및 인재 데이터 시각화 대시보드 개발
