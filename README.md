@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-데이터 모델링과 API 서버 개발, AI 역량을 가진 백엔드 중심의 Software Developer 한성욱입니다.
+데이터 모델링과 API 서버 개발, AI 역량을 가진 백엔드 중심의 Software Engineer 한성욱입니다.
 
 ### **[API 서버 구현 및 배포]**
 - Django, PostgreSQL 기반 Talent Sourcing & Talent Acquisition platform 구축
