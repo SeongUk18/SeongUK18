@@ -12,21 +12,59 @@
 데이터 모델링과 API 서버 개발, AI 파이프라인 설계에 강점을 가진 백엔드 중심의 Software Engineer 한성욱입니다.
 
 ### **[Backend & System]**
-- Django, FastAPI 기반 서버 아키텍처 설계 및 운영
+- Java Spring Boot, Django, FastAPI 기반 서버 아키텍처 설계 및 운영
 - PostgreSQL Full-Text Search 도입, ORM 최적화를 통한 대용량 데이터 조회 성능 개선
 - Docker, Docker Compose 기반 컨테이너 환경 구축 및 배포
+- Kafka 기반 이벤트 드리븐 아키텍처 설계
 
 ### **[AI & Data Engineering]**
 - Bi-Encoder + Cross-Encoder 결합 다단계 인재 추천 파이프라인 구축
 - LangGraph 활용 데이터 증강 및 LLM 기반 자연어 검색·이력서 요약 기능 개발
 - LSTM 딥러닝 모델을 활용한 설비 에너지 사용량 최적화 (약 20% 비용 절감)
 
+### **[Authentication & Security]**
+- OIDC/OAuth2 기반 SSO 연동 (Okta Integration)
+- 역할별 권한 관리 및 접근 제어 시스템 설계
+
 ---
 
 ## 💼 Work Experience
 
+### **Midasin**
+**Backend Developer** | 2026.04 — 현재
+
+> **채용 솔루션(ATS) 개발**
+>
+> Java Spring Boot 기반의 채용관리 시스템 개발 및 고도화. 공공기관 블라인드 채용, 지원서 자동 스크리닝, SSO 연동 등 다양한 기능을 담당하고 있습니다.
+
+#### 🛠 주요 성과
+- **공공기관 블라인드 채용 요건 대응**
+  - 지원서 항목별 블라인드 처리 및 직접 추가 커스텀 항목 확장 기능 개발
+  - 규제 요건을 반영한 안전한 데이터 마스킹 로직 구현
+
+- **지원서 자동 스크리닝 기능 고도화**
+  - 학력·경력·서술형 답변 등 다양한 지원서 항목을 스크리닝 조건으로 활용하도록 확대
+  - 심사에 사용하는 학교·자격증 목록 관리 기능 개발
+
+- **서술형 답변 키워드 탐색 로직 개발**
+  - Aho-Corasick 알고리즘 적용으로 키워드 수와 무관한 선형 시간 판정 구현
+  - 대용량 문서에서의 다중 키워드 검색 성능 획기적 개선
+
+- **Okta SSO(OIDC) 연동**
+  - Authorization Code Flow 및 ID Token 검증 구현
+  - 엔터프라이즈급 SSO 인증 인프라 구축
+
+- **지원서 열람 권한 판정 로직 통합 및 역할별 분리**
+  - 중복 판정으로 인한 권한 누수 제거
+  - 역할별 접근 권한 세분화 및 감시 로직 강화
+
+#### 🛠 기술 스택
+Java 21 · Kotlin · Spring Boot 3.1 · Kafka · MyBatis · QueryDSL · OIDC/OAuth2
+
+<br>
+
 ### **Smilegate Holdings**
-**Talent Relations 팀 / 인턴** | 2025.04 —
+**Talent Relations 팀 / 인턴** | 2025.04 — 2025.12 (9개월)
 
 > **DX/AX 기반 토탈 인텔리전스 플랫폼 (Project TIPS) 개발**
 >
@@ -36,8 +74,10 @@
 - **Profile List 검색 성능 96% 개선** (10s → 0.4s)
   - PostgreSQL Full-Text Search 도입 및 Django ORM 최적화
   - N+1 쿼리 해결 (Subquery, OuterRef 활용), Raw SQL 구조 개선
+
 - **통합 검색 API 성능 94% 개선** (3.5s → 0.2s)
   - 불필요한 prefetch_related 제거 및 only() 메서드를 통한 17.5배 성능 향상
+
 - **대용량 DOM 렌더링 99% 개선** (48s → 0.61s)
   - 정적 드롭다운을 Debouncing + 지연 로딩 기반 동적 API 구조로 리팩토링
 
@@ -47,10 +87,14 @@
 - **데이터 증강**: LangGraph 활용 게임 프로젝트 데이터 맥락 정보 확장 및 30개 이상 컬럼 자동 증강
 - **시스템 설계**: 인재-개발 조직-게임 프로젝트 간 복잡한 구조를 유연하게 매핑하는 TRM 데이터 모델 설계
 
+#### 🛠 기술 스택
+Python · Django · FastAPI · PostgreSQL · LangGraph · LLM (OpenAI API) · Docker
+
 <br>
 
 ### **Genexine**
 **의약품 분석팀 / 연구원** | 2016.10 — 2021.06 (4년 7개월)
+
 - 원료 의약품 및 안정성 시험 의약품 품질 분석 및 분석법 개발
 - 분석 데이터를 통한 의약품 안정성 결과 예측 업무 진행
 
